@@ -10,6 +10,6 @@
   "issue_tracker": "https://github.com/ianhattendorf/hacs-hitachiprojector/issues",
   "requirements": ["libhitachiprojector==0.0.5", "pypjlink2==1.2.1"],
   "ssdp": [],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "zeroconf": []
 }
